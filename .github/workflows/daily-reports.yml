@@ -1,0 +1,46 @@
+name: Daily stock reports
+
+on:
+  workflow_dispatch:
+  schedule:
+    # GitHub Actions uses UTC. 05:00 UTC is 06:00 CET during winter.
+    - cron: "0 5 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  generate-reports:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: python -m pip install -r requirements.txt
+
+      - name: Execute report batch
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: >-
+          jupyter nbconvert --to notebook --execute all_tickers.ipynb
+          --output all_tickers_executed.ipynb
+          --ExecutePreprocessor.timeout=1800
+
+      - name: Commit generated reports
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add PG AAPL
+          if git diff --cached --quiet; then
+            echo "No report changes to commit."
+          else
+            git commit -m "Update daily stock reports"
+            git push
+          fi
