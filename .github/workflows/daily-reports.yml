@@ -4,7 +4,8 @@ on:
   workflow_dispatch:
   schedule:
     # GitHub Actions uses UTC. 05:00 UTC is 06:00 CET during winter.
-    - cron: "0 5 * * *"
+    - cron: '0 20 * * *'
+      timezone: 'Europe/Paris'
 
 permissions:
   contents: write
