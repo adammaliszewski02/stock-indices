@@ -1,7 +1,4 @@
+AI description unavailable for AAPL; using the local profile.
 Company description: AAPL
 
-Apple Inc., trading under the ticker AAPL, is a global technology leader that designs, manufactures, and markets premium consumer electronics, software, and digital services. Founded in 1976 by Steve Jobs, Steve Wozniak, and Ronald Wayne, the company initially revolutionized personal computing with the Apple II and Macintosh. Apple later redefined modern communication and consumer technology with the launches of the iPod in 2001 and the iPhone in 2007.
-
-Today, Apple operates a seamlessly integrated ecosystem of hardware, software, and services. Its primary product lines include the iPhone, Mac computers, iPad tablets, and wearable devices such as the Apple Watch and AirPods, all powered by proprietary Apple Silicon. 
-
-In recent years, the company has strategically expanded its high-margin Services division, which encompasses the App Store, iCloud, Apple Music, Apple Pay, and streaming content. Headquartered in Cupertino, California, Apple focuses on sustaining customer loyalty through ecosystem integration, advancing artificial intelligence across its device network, and maintaining its position as one of the world's most valuable publicly traded companies.
+Apple Inc. (NASDAQ: AAPL) designs, manufactures, and sells smartphones, personal computers, tablets, wearables, and related services. Its ecosystem includes iPhone, Mac, iPad, Apple Watch, AirPods, iOS, macOS, the App Store, and iCloud. Founded in 1976 and headquartered in Cupertino, California, Apple serves customers worldwide through integrated hardware, software, and services.
