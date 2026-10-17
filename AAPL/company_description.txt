@@ -1,7 +1,9 @@
 Company description: AAPL
 
-Apple Inc. (NASDAQ: AAPL) is a global technology leader that designs, manufactures, and markets consumer electronics, software, and digital services. Its flagship hardware portfolio includes the iPhone, Mac personal computers, iPad, and wearable devices such as the Apple Watch and AirPods. Beyond hardware, the company operates a thriving services ecosystem, including the App Store, Apple Music, iCloud, and Apple Pay, all unified by proprietary operating systems like iOS and macOS.
+Apple Inc. (NASDAQ: AAPL) is a global technology leader that designs, manufactures, and markets premium consumer electronics, personal devices, and software, alongside a rapidly expanding portfolio of digital services. 
 
-Founded in 1976 by Steve Jobs, Steve Wozniak, and Ronald Wayne, Apple initially revolutionized personal computing with the Apple II and the Macintosh. In 2007, the company dropped "Computer" from its name to reflect a broader pivot into consumer technology, catalyzed by the groundbreaking launch of the iPhone, which fundamentally reshaped the global smartphone industry.
+Founded in 1976 by Steve Jobs, Steve Wozniak, and Ronald Wayne, the company initially disrupted personal computing with the Apple II and the Macintosh. Apple later revolutionized modern consumer technology with the launch of the iPod in 2001 and the groundbreaking iPhone in 2007, which fundamentally reshaped the global smartphone industry and mobile economy. 
 
-Today, Apple is distinguished by its seamless hardware-software integration, strong customer loyalty, and focus on user privacy. The company continues to expand its market presence through ongoing innovations in custom silicon, digital subscriptions, spatial computing with the Apple Vision Pro, and emerging artificial intelligence capabilities, maintaining its position as one of the world's most valuable publicly traded enterprises.
+Today, Apple operates a seamlessly integrated ecosystem built around its hardware lineup—including the iPhone, Mac, iPad, Apple Watch, and AirPods—powered by proprietary operating systems such as iOS and macOS. The company complements its physical products with high-margin services, including the App Store, iCloud, Apple Music, Apple Pay, and Apple TV+. 
+
+Headquartered in Cupertino, California, Apple continues to drive industry innovation through ongoing investments in proprietary silicon chips, artificial intelligence, augmented reality, and subscription services, maintaining its position as one of the world's most valuable and influential corporations.
