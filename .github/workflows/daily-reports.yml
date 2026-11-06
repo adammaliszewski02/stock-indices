@@ -43,7 +43,31 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add PG AAPL
+          python - <<'PY'
+          import ast
+          import json
+          import subprocess
+          from pathlib import Path
+
+          notebook = json.loads(Path("all_tickers.ipynb").read_text(encoding="utf-8"))
+          tickers = None
+          for cell in notebook["cells"]:
+              if cell["cell_type"] != "code":
+                  continue
+              tree = ast.parse("".join(cell["source"]))
+              for node in ast.walk(tree):
+                  if isinstance(node, ast.Assign) and any(
+                      isinstance(target, ast.Name) and target.id == "TICKERS"
+                      for target in node.targets
+                  ):
+                      tickers = ast.literal_eval(node.value)
+                      break
+              if tickers is not None:
+                  break
+          if tickers is None:
+              raise RuntimeError("Could not find TICKERS in all_tickers.ipynb")
+          subprocess.run(["git", "add", "--all", "--", *tickers], check=True)
+          PY
           if git diff --cached --quiet; then
             echo "No report changes to commit."
           else

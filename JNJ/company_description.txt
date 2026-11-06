@@ -1,14 +1,3 @@
-Attempting to generate description using gemini-3.8-flash...
-  -> Rate limit exceeded for gemini-3.8-flash. Falling back to next model...
+Johnson & Johnson, traded under the ticker JNJ, is a preeminent global healthcare holding company engaged in the research, development, manufacture, and sale of a broad range of products in the healthcare field. The corporation operates primarily through two major segments: Innovative Medicine, which focuses on immunology, oncology, neuroscience, cardiovascular disease, and pulmonary hypertension; and MedTech, which provides orthopedics, surgery, vision, and interventional solutions. 
 
-Attempting to generate description using gemini-3.0-flash...
-  -> API Error with gemini-3.0-flash: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-3.0-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
-
-Attempting to generate description using gemini-2.5-flash...
-  -> API Error with gemini-2.5-flash: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
-
-Attempting to generate description using gemini-3.5-flash-lite...
-
-Company description: JNJ (Generated via gemini-3.5-flash-lite)
-
-Johnson & Johnson (JNJ) is a premier global healthcare holding company founded in New Brunswick, New Jersey, in 1886 by brothers Robert, James, and Edward Johnson. The enterprise operates through two primary sectors: Innovative Medicine and MedTech. The Innovative Medicine segment focuses on discovering, developing, and delivering advanced therapeutics to address complex diseases in areas such as immunology, oncology, neuroscience, cardiovascular, and metabolic disorders. The MedTech segment provides a broad portfolio of medical technology solutions, including advanced surgical instruments, orthopedics, vision care, and interventional solutions designed to improve patient outcomes worldwide. Having successfully completed the spin-off of its consumer health business into Kenvue in 2023, Johnson & Johnson is currently dedicated entirely to pharmaceutical innovation and medical technology.
+Founded in 1886 by Robert Wood Johnson, James Wood Johnson, and Edward Mead Johnson in New Brunswick, New Jersey, the company initially manufactured ready-to-use antiseptic surgical dressings. Over the decades, it expanded globally through organic innovation and strategic acquisitions, establishing a legacy of consumer and clinical health advancements, most notably the invention of Johnson's Baby Powder and first aid kits. In 2023, Johnson & Johnson completed the corporate separation of its consumer health division into a newly traded entity named Kenvue, refocusing its entire operational portfolio entirely on pharmaceuticals and medical technology. Today, JNJ remains a cornerstone of the global healthcare sector, driven by a commitment to advancing health and medical science worldwide.

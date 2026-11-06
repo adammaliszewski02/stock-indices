@@ -1,16 +1,5 @@
-Attempting to generate description using gemini-3.8-flash...
-  -> Rate limit exceeded for gemini-3.8-flash. Falling back to next model...
+Broadcom Inc. (AVGO) is a global technology leader that designs, develops, and supplies a broad range of semiconductor and infrastructure software solutions. The company’s core business encompasses enterprise software, data center networking, broadband, wireless connectivity, and storage products that power modern cloud computing, telecommunications, and industrial systems. 
 
-Attempting to generate description using gemini-3.0-flash...
-  -> API Error with gemini-3.0-flash: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-3.0-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+The company's roots trace back to Hewlett-Packard’s semiconductor division, which was spun off in 1999 to form Agilent Technologies. Agilent subsequently spun off its semiconductor operations in 2005 to create Avago Technologies. In a pivotal moment of corporate growth, Avago acquired the original Broadcom Corporation in 2016 for $37 billion and adopted the Broadcom name, retaining the iconic AVGO ticker symbol. 
 
-Attempting to generate description using gemini-2.5-flash...
-  -> API Error with gemini-2.5-flash: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
-
-Attempting to generate description using gemini-3.5-flash-lite...
-
-Company description: AVGO (Generated via gemini-3.5-flash-lite)
-
-Broadcom Inc., trading under the ticker AVGO, is a global technology leader that designs, develops, and supplies a wide range of semiconductor and infrastructure software solutions. The company’s product offerings serve critical markets including data centers, networking, enterprise software, broadband, wireless, and industrial applications. 
-
-The enterprise traces its roots to 1961 as a semiconductor division of Hewlett-Packard before being spun off as Agilent Technologies in 1999. Agilent's semiconductor group subsequently became Avago Technologies in 2005 through a private equity buyout. A pivotal moment in the company’s history occurred in 2016 when Avago Technologies acquired the original Broadcom Corporation for $37 billion and adopted the Broadcom name. Under the leadership of CEO Hock Tan, the company pursued an aggressive growth strategy defined by major acquisitions, most notably the 2018 purchase of CA Technologies, the 2019 acquisition of Symantec's enterprise security business, and the landmark $69 billion acquisition of VMware in 2023. Today, Broadcom is recognized as a critical enabler of modern digital infrastructure, supplying essential components for artificial intelligence, cloud computing, and telecommunications networks worldwide.
+Under the leadership of CEO Hock Tan, Broadcom expanded its strategic footprint through major acquisitions, including CA Technologies in 2018, Symantec’s enterprise security business in 2019, and the landmark $69 billion acquisition of VMware in 2023. Today, Broadcom plays a critical role in the global technology supply chain, delivering advanced custom silicon for artificial intelligence workloads alongside mission-critical infrastructure software for enterprises worldwide.

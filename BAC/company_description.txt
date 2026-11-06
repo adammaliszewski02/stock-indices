@@ -1,19 +1,3 @@
-Attempting to generate description using gemini-3.8-flash...
-  -> Rate limit exceeded for gemini-3.8-flash. Falling back to next model...
+Bank of America Corporation (BAC) is one of the world's leading financial institutions, providing a comprehensive range of banking, investing, asset management, and other financial and risk-management products and services. Headquartered in Charlotte, North Carolina, the company serves individual consumers, small and middle-market businesses, corporations, and governments through a robust digital platform and a vast network of financial centers across the United States. 
 
-Attempting to generate description using gemini-3.0-flash...
-  -> API Error with gemini-3.0-flash: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-3.0-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
-
-Attempting to generate description using gemini-2.5-flash...
-  -> API Error with gemini-2.5-flash: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
-
-Attempting to generate description using gemini-3.5-flash-lite...
-  -> API Error with gemini-3.5-flash-lite: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
-
-Attempting to generate description using gemini-3.1-flash-lite...
-
-Company description: BAC (Generated via gemini-3.1-flash-lite)
-
-Bank of America Corporation (BAC) is one of the world’s leading financial institutions, serving individual consumers, small and middle-market businesses, and large corporations with a full range of banking, investing, asset management, and other financial and risk management products and services. Headquartered in Charlotte, North Carolina, the company operates through a vast network of financial centers and digital platforms, maintaining a significant presence in the United States and select international markets.
-
-The company’s origins trace back to 1904, when Amadeo Giannini founded the Bank of Italy in San Francisco to provide banking services to immigrants who were often excluded by traditional institutions. Following the 1906 San Francisco earthquake, Giannini famously resumed operations almost immediately, cementing the bank's reputation for resilience. Through a series of strategic mergers and acquisitions—most notably the 1998 merger between NationsBank and the original BankAmerica, and the 2008 acquisition of Merrill Lynch—the firm evolved into the diversified global financial powerhouse it is today. It remains a cornerstone of the American banking system, consistently ranking among the largest banks by assets globally.
+The institution traces its roots to 1784 with the founding of Massachusetts Bank, though its modern lineage was largely shaped through a series of significant mergers and acquisitions. Most notably, the 1998 merger between NationsBank and BankAmerica created the entity known today as Bank of America. Further expanding its footprint, the company acquired brokerage giant Merrill Lynch and mortgage lender Countrywide Financial during the 2008 financial crisis. Today, BAC operates as a globally systemic bank, committed to driving responsible growth and supporting economic mobility for its clients and communities.

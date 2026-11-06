@@ -1,14 +1,3 @@
-Attempting to generate description using gemini-3.8-flash...
-  -> Rate limit exceeded for gemini-3.8-flash. Falling back to next model...
+The Boeing Company, traded under the stock ticker BA, is a premier global aerospace manufacturer and the world's largest defense contractor. Headquartered in Arlington, Virginia, the company operates through three primary segments: Commercial Airplanes, Defense, Space & Security, and Global Services. Boeing designs, develops, manufactures, and sells commercial jetliners, military aircraft, satellites, weapons, and electronic defense systems, while also providing comprehensive fleet support and training services to airlines and government customers worldwide. 
 
-Attempting to generate description using gemini-3.0-flash...
-  -> API Error with gemini-3.0-flash: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-3.0-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
-
-Attempting to generate description using gemini-2.5-flash...
-  -> API Error with gemini-2.5-flash: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
-
-Attempting to generate description using gemini-3.5-flash-lite...
-
-Company description: BA (Generated via gemini-3.5-flash-lite)
-
-The stock ticker BA corresponds to The Boeing Company, a prominent American multinational corporation founded in 1916 by William E. Boeing in Seattle, Washington. Boeing is a global aerospace leader and one of the world's largest defense contractors. The company's primary business operations are organized into major segments encompassing commercial airplanes, defense, space, and security systems, as well as global services. Boeing designs, manufactures, and sells commercial jetliners, military aircraft, satellites, weapons, and electronic and defense systems, while also providing comprehensive fleet support, maintenance, and training solutions to commercial and government customers worldwide.
+The company traces its origins back to July 1916, when William E. Boeing founded Pacific Aero Products Co. in Seattle, Washington, shortly thereafter renaming it the Boeing Airplane Company. Throughout the twentieth century, Boeing played a pivotal role in the advancement of aviation and aerospace history, most notably introducing the iconic 747 jumbo jet in 1969 and contributing significantly to the Apollo space program. Through strategic acquisitions, including the 1997 merger with McDonnell Douglas, Boeing expanded its portfolio to encompass a vast array of defense and space technologies, establishing its enduring position as a cornerstone of global transportation and national security infrastructure.

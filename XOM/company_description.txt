@@ -1,14 +1,3 @@
-Attempting to generate description using gemini-3.8-flash...
-  -> Rate limit exceeded for gemini-3.8-flash. Falling back to next model...
+Exxon Mobil Corporation, trading under the ticker XOM, is a premier American multinational energy corporation and one of the largest publicly traded companies in the world. Headquartered in Spring, Texas, the company operates across the entire energy spectrum, engaging in the exploration, production, transportation, and sale of crude oil and natural gas. Additionally, ExxonMobil manufactures and markets commodity petrochemicals, specialty products, and power generation solutions. 
 
-Attempting to generate description using gemini-3.0-flash...
-  -> API Error with gemini-3.0-flash: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-3.0-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
-
-Attempting to generate description using gemini-2.5-flash...
-  -> API Error with gemini-2.5-flash: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
-
-Attempting to generate description using gemini-3.5-flash-lite...
-
-Company description: XOM (Generated via gemini-3.5-flash-lite)
-
-Exxon Mobil Corporation (XOM) is a premier American multinational energy corporation and one of the world's largest publicly traded integrated oil and gas companies. Tracing its roots back to John D. Rockefeller's Standard Oil trust founded in 1870, the modern enterprise was formed through the landmark 1999 merger of Exxon and Mobil. Headquartered in Spring, Texas, the company operates across the entire energy spectrum. Its primary business encompasses the exploration, extraction, transportation, and sale of crude oil and natural gas. Additionally, ExxonMobil is a major producer of petrochemicals, plastics, and specialized petroleum products. In response to global market shifts, the company is actively expanding its portfolio to include lower-emission technologies, such as carbon capture and storage, hydrogen, and advanced biofuels, aiming to meet growing energy demands while advancing sustainability initiatives.
+The company’s corporate lineage traces back to John D. Rockefeller's Standard Oil trust, founded in 1870. Following the landmark 1911 antitrust dissolution of Standard Oil, the enterprise split into several regional entities, most notably the Standard Oil Company of New Jersey (later known as Exxon) and the Standard Oil Company of New York (later known as Mobil). These two industry giants officially reunited in a historic 1999 mega-merger, forming ExxonMobil. Today, XOM remains a dominant force in the global energy market, actively adapting its portfolio toward lower-emissions technologies, carbon capture, and advanced biofuels while continuing to meet vital global energy demands.

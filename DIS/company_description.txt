@@ -1,17 +1,3 @@
-Attempting to generate description using gemini-3.8-flash...
-  -> Rate limit exceeded for gemini-3.8-flash. Falling back to next model...
+The Walt Disney Company, trading under the stock ticker DIS, is a diversified worldwide family entertainment and media enterprise. Founded in 1923 by brothers Walt and Roy Disney as a small-scale animation studio, the company pioneered the animation industry with the 1937 release of *Snow White and the Seven Dwarfs*. Over the decades, Disney evolved from a traditional cartoon producer into a global powerhouse spanning multiple sectors. 
 
-Attempting to generate description using gemini-3.0-flash...
-  -> API Error with gemini-3.0-flash: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-3.0-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
-
-Attempting to generate description using gemini-2.5-flash...
-  -> API Error with gemini-2.5-flash: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
-
-Attempting to generate description using gemini-3.5-flash-lite...
-  -> API Error with gemini-3.5-flash-lite: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
-
-Attempting to generate description using gemini-3.1-flash-lite...
-
-Company description: DIS (Generated via gemini-3.1-flash-lite)
-
-The Walt Disney Company, trading under the ticker DIS, is a diversified global entertainment and media enterprise. Founded by brothers Walt and Roy Disney in 1923 as a small animation studio, the company has evolved into a multifaceted conglomerate. Its business operations are structured into three primary segments: Entertainment, which encompasses film and television production and streaming services; Sports, anchored by the ESPN brand; and Experiences, which includes its world-renowned theme parks, cruise lines, and consumer products. Through iconic intellectual properties such as Disney, Pixar, Marvel, Star Wars, and National Geographic, the company maintains a dominant position in global media. Headquartered in Burbank, California, Disney continues to leverage its extensive library and creative legacy to integrate content across digital platforms and physical destinations, maintaining its status as one of the most influential entities in the entertainment industry.
+Today, its operations are organized into three primary segments: Entertainment, Sports, and Experiences. The Entertainment division encompasses film and television production, linear networks, and direct-to-consumer streaming services, including Disney+ and Hulu. The Sports segment is anchored by ESPN, delivering comprehensive sports programming and digital media coverage. The Experiences division operates the company's iconic theme parks, resort destinations, cruise lines, and global consumer products licensing and retail operations. Through strategic acquisitions of major industry players like Pixar, Marvel Entertainment, Lucasfilm, and 21st Century Fox, Disney has solidified its position as a dominant leader in the global entertainment landscape.

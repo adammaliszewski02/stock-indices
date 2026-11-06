@@ -1,14 +1,3 @@
-Attempting to generate description using gemini-3.8-flash...
-  -> Rate limit exceeded for gemini-3.8-flash. Falling back to next model...
+The Goldman Sachs Group, Inc., trading under the ticker GS, is a leading global financial institution that delivers a wide range of financial services to a substantial and diversified client base. Established in 1869 by Marcus Goldman in New York City, the firm has evolved from a small commercial paper business into a preeminent global investment banking, securities, and investment management firm. 
 
-Attempting to generate description using gemini-3.0-flash...
-  -> API Error with gemini-3.0-flash: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-3.0-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
-
-Attempting to generate description using gemini-2.5-flash...
-  -> API Error with gemini-2.5-flash: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
-
-Attempting to generate description using gemini-3.5-flash-lite...
-
-Company description: GS (Generated via gemini-3.5-flash-lite)
-
-The Goldman Sachs Group, Inc., trading under the ticker GS, is a leading global financial institution that delivers a wide range of financial services to a substantial and diversified client base. Founded in 1869 by Marcus Goldman in New York City, the firm evolved from a small commercial paper business into a preeminent global investment banking and securities powerhouse. Today, Goldman Sachs operates across four primary segments: investment banking, global markets, asset management, and wealth management. The company provides strategic advisory on mergers and acquisitions, capital-raising services, underwriting, and securities dealing, alongside comprehensive wealth and asset management solutions for corporations, financial institutions, governments, and high-net-worth individuals worldwide.
+Goldman Sachs operates primarily through four key business segments: Global Banking & Markets, Asset Management, Wealth Management, and Platform Solutions. The firm provides advisory services on mergers and acquisitions, underwrites debt and equity securities, executes trades across global capital markets, and manages assets for institutional and high-net-worth clients. Throughout its history, the company has played a central role in shaping modern global finance, notable for its rigorous analytical culture, pioneering advisory work in major corporate transactions, and its transition into a bank holding company during the 2008 financial crisis. Today, Goldman Sachs leverages its extensive global footprint and deep market expertise to facilitate capital formation and economic growth worldwide.

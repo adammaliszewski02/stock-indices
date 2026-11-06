@@ -1,16 +1,3 @@
-Attempting to generate description using gemini-3.8-flash...
-  -> Rate limit exceeded for gemini-3.8-flash. Falling back to next model...
+Wells Fargo & Company (ticker: WFC) is a leading American multinational financial services corporation and one of the "Big Four" banks in the United States. Headquartered in San Francisco, California, the company traces its origins back to 1852, when Henry Wells and William G. Fargo founded an enterprise originally established to provide express and banking services to the American West, famously symbolized by its iconic stagecoach. 
 
-Attempting to generate description using gemini-3.0-flash...
-  -> API Error with gemini-3.0-flash: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-3.0-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
-
-Attempting to generate description using gemini-2.5-flash...
-  -> API Error with gemini-2.5-flash: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
-
-Attempting to generate description using gemini-3.5-flash-lite...
-
-Company description: WFC (Generated via gemini-3.5-flash-lite)
-
-Wells Fargo & Company (ticker: WFC) is a leading American multinational financial services corporation and one of the largest banks in the United States by assets. Headquartered in San Francisco, California, the company provides a comprehensive suite of banking, investment, mortgage, and consumer and commercial finance products and services to individuals, businesses, and institutions. 
-
-Tracing its roots back to 1852, the company was originally founded in New York by Henry Wells and William G. Fargo as an express and banking company to facilitate the booming California Gold Rush economy. Over the decades, it expanded aggressively through numerous strategic mergers and acquisitions, most notably its transformative 1998 merger with Minneapolis-based Norwest Corporation, which retained the prestigious Wells Fargo name, and its acquisition of Wachovia during the 2008 financial crisis. Today, Wells Fargo operates a vast network of branches and digital platforms, serving tens of millions of customers globally while continually evolving its risk management and operational framework to meet modern regulatory and market standards.
+Today, Wells Fargo operates through a vast network of branches and digital platforms, serving millions of consumers, small businesses, and major corporations. The company provides a comprehensive suite of financial products and services, including retail and commercial banking, wealth management, investment banking, and mortgage servicing. As a globally systemically important financial institution, Wells Fargo plays a critical role in the U.S. and international economies, continuously evolving its technological infrastructure and risk management frameworks to support its diverse customer base.

@@ -1,18 +1,3 @@
-Attempting to generate description using gemini-3.8-flash...
-  -> Rate limit exceeded for gemini-3.8-flash. Falling back to next model...
+PepsiCo, Inc. (ticker: PEP) is a multinational food, snack, and beverage corporation headquartered in Purchase, New York. The company manufactures, markets, and distributes a globally recognized portfolio of grain-based snacks, carbonated and non-carbonated beverages, and dairy products. Its diverse brand ecosystem includes Pepsi-Cola, Frito-Lay, Gatorade, Quaker, and Tropicana, serving consumers in more than 200 countries and territories. 
 
-Attempting to generate description using gemini-3.0-flash...
-  -> API Error with gemini-3.0-flash: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-3.0-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
-
-Attempting to generate description using gemini-2.5-flash...
-  -> API Error with gemini-2.5-flash: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
-
-Attempting to generate description using gemini-3.5-flash-lite...
-
-Company description: PEP (Generated via gemini-3.5-flash-lite)
-
-The company identified by the stock ticker PEP is PepsiCo, Inc., a leading global food and beverage corporation headquartered in Purchase, New York. The business operations encompass the manufacturing, marketing, and distribution of a broad portfolio of grain-based snacks, carbonated and non-carbonated beverages, and dairy products. 
-
-The company's origins trace back to the late 1890s when pharmacist Caleb Bradham invented the carbonated soft drink Pepsi-Cola in New North Carolina. The enterprise expanded significantly through the 1965 merger of the Pepsi-Cola Company and Frito-Lay, Inc., which united prominent snack and beverage brands under a single corporate entity. Subsequent strategic acquisitions further diversified the portfolio to include Tropicana, Quaker Oats, and Gatorade. 
-
-Today, PepsiCo operates a globally recognized enterprise organized into convenient foods and beverage sectors across multiple international markets. The product ecosystem is anchored by billion-dollar brands that cater to diverse consumer preferences, supported by an extensive direct-store-delivery and warehouse distribution network serving retail and foodservice customers worldwide.
+The enterprise traces its modern origins to the 1965 merger of the Pepsi-Cola Company, originally formulated by pharmacist Caleb Bradham in the late 1890s, and Frito-Lay, Inc., which was founded by Herman Lay and C.E. Doolin. Over the subsequent decades, PepsiCo expanded its product offerings significantly through strategic acquisitions, notably adding Tropicana in 1998, Quaker Oats—along with Gatorade—in 2001, and a controlling stake in Pioneer Foods in 2020. Today, PepsiCo operates under a dual-pronged business model centered on convenient foods and beverages, driven by a commitment to sustainable agriculture and packaging through its pep+ (PepsiCo Positive) transformation framework.

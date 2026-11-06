@@ -1,16 +1,1 @@
-Attempting to generate description using gemini-3.8-flash...
-  -> Rate limit exceeded for gemini-3.8-flash. Falling back to next model...
-
-Attempting to generate description using gemini-3.0-flash...
-  -> API Error with gemini-3.0-flash: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-3.0-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
-
-Attempting to generate description using gemini-2.5-flash...
-  -> API Error with gemini-2.5-flash: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
-
-Attempting to generate description using gemini-3.5-flash-lite...
-
-Company description: UNH (Generated via gemini-3.5-flash-lite)
-
-UnitedHealth Group Incorporated (ticker: UNH) is a diversified healthcare and well-being company based in the United States, recognized as the largest healthcare company in the world by revenue. Traded on the New York Stock Exchange, the company operates through two distinct platforms: UnitedHealthcare, which provides health care coverage and benefits services, and Optum, which delivers information and technology-enabled health services. 
-
-The enterprise traces its origins to 1977 with the founding of Charter Med Incorporated, which was restructured to form United HealthCare Corporation in 1977 before adopting its current name in 1998 to reflect its broader strategic scope. Over the decades, UNH expanded significantly through strategic acquisitions, including the major integration ofamedical services and pharmacy benefit management provider, Catamaran Corporation, in 2015, and the continual scaling of its Optum segment. Today, the company serves hundreds of individuals globally, focusing on modernizing the health system, improving clinical outcomes, and reducing the overall cost of care through data-driven solutions and integrated service delivery.
+UnitedHealth Group Incorporated, traded under the ticker UNH, is a diversified American healthcare and well-being company. Tracing its origins to the founding of its predecessor, United Health and Life, in 1977, the company officially restructured into its current holding structure in 1977 before becoming a publicly traded entity on the New York Stock Exchange. Headquartered in Minnetonka, Minnesota, UnitedHealth Group operates through two distinct platforms: UnitedHealthcare, which provides health care coverage and benefit services to individuals, employers, and Medicare and Medicaid beneficiaries, and Optum, a health services business that leverages information and technology to deliver pharmacy care services, care delivery, and operational consulting. Through this integrated care model, the company has grown to become one of the largest healthcare enterprises in the world by revenue, serving hundreds of millions of people globally while advancing modern healthcare delivery and financial systems.
