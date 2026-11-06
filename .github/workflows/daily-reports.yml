@@ -66,7 +66,7 @@ jobs:
                   break
           if tickers is None:
               raise RuntimeError("Could not find TICKERS in all_tickers.ipynb")
-          subprocess.run(["git", "add", "--all", "--", *tickers], check=True)
+          subprocess.run(["git", "add", "--all", "--", *tickers, "run_logs"], check=True)
           PY
           if git diff --cached --quiet; then
             echo "No report changes to commit."
