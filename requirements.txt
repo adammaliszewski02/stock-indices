@@ -5,4 +5,5 @@ pandas-ta
 plotly
 nbformat
 nbconvert
+playwright
 jupyter
