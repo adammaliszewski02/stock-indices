@@ -1,0 +1,19 @@
+Attempting to generate description using gemini-3.8-flash...
+  -> Rate limit exceeded for gemini-3.8-flash. Falling back to next model...
+
+Attempting to generate description using gemini-3.0-flash...
+  -> API Error with gemini-3.0-flash: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-3.0-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+
+Attempting to generate description using gemini-2.5-flash...
+  -> API Error with gemini-2.5-flash: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+
+Attempting to generate description using gemini-3.5-flash-lite...
+  -> API Error with gemini-3.5-flash-lite: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+
+Attempting to generate description using gemini-3.1-flash-lite...
+
+Company description: ABBV (Generated via gemini-3.1-flash-lite)
+
+AbbVie Inc. (ABBV) is a global, research-based biopharmaceutical company focused on developing advanced therapies for some of the world’s most complex and serious health conditions. The company maintains a diverse portfolio across key therapeutic areas, including immunology, oncology, neuroscience, eye care, and aesthetics. Its flagship product, Humira, has historically been one of the world’s best-selling medications, anchoring the company’s significant presence in the immunology market.
+
+AbbVie was established on January 1, 2013, following its separation from Abbott Laboratories. This strategic spin-off allowed the company to focus exclusively on its proprietary pharmaceutical pipeline while leveraging decades of research heritage. Since its inception, AbbVie has expanded its reach through significant strategic acquisitions, most notably the 2020 purchase of Allergan, which integrated iconic brands like Botox into its portfolio. Headquartered in North Chicago, Illinois, AbbVie continues to prioritize innovation and clinical excellence, investing heavily in research and development to address unmet medical needs and improve patient outcomes on a global scale.

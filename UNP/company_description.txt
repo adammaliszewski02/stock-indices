@@ -1,0 +1,16 @@
+Attempting to generate description using gemini-3.8-flash...
+  -> Rate limit exceeded for gemini-3.8-flash. Falling back to next model...
+
+Attempting to generate description using gemini-3.0-flash...
+  -> API Error with gemini-3.0-flash: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-3.0-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+
+Attempting to generate description using gemini-2.5-flash...
+  -> API Error with gemini-2.5-flash: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+
+Attempting to generate description using gemini-3.5-flash-lite...
+
+Company description: UNP (Generated via gemini-3.5-flash-lite)
+
+Union Pacific Corporation (UNP) is one of America's most iconic and principal transportation companies, operating through its primary subsidiary, Union Pacific Railroad Company. Traded on the New York Stock Exchange, the company connects 23 states across the western two-thirds of the United States by rail, providing critical freight transportation services to agricultural, industrial, premium, and energy markets. 
+
+The company's rich history dates back to July 1, 1862, when President Abraham Lincoln signed the Pacific Railroad Act. This legislation chartered the original Union Pacific Rail Road to build a westward line from the Missouri River, which ultimately met the Central Pacific line at Promontory, Utah, in 1869 to complete the historic First Transcontinental Railroad. Over the decades, Union Pacific expanded significantly through strategic mergers and acquisitions, notably absorbing the Missouri Pacific and Chicago and North Western railroads in the late 20th century. Today, modernizing operations through technological innovation and precise scheduling, Union Pacific remains a vital backbone of the North American supply chain and economic infrastructure.

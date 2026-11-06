@@ -1,7 +1,14 @@
-Company description: AAPL
+Attempting to generate description using gemini-3.8-flash...
+  -> API Error with gemini-3.8-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
 
-Apple Inc., trading under the ticker symbol AAPL, is a global technology leader that designs, manufactures, and markets premium consumer electronics, mobile devices, personal computers, and complementary software and digital services. Founded in 1976 by Steve Jobs, Steve Wozniak, and Ronald Wayne, the company initially transformed personal computing with the Apple II and Macintosh before fundamentally reshaping the modern technology landscape with the launch of the iPhone in 2007. 
+Attempting to generate description using gemini-3.0-flash...
+  -> API Error with gemini-3.0-flash: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-3.0-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
 
-Today, Apple operates a seamlessly integrated ecosystem anchored by core hardware products, including the iPhone, Mac, iPad, Apple Watch, and the Vision Pro spatial computer. These devices run on proprietary operating systems and are powered by custom-designed Apple silicon. Parallel to its hardware business, the company generates robust growth through its high-margin Services division, which encompasses the App Store, iCloud, Apple Music, Apple Pay, and streaming media. 
+Attempting to generate description using gemini-2.5-flash...
+  -> API Error with gemini-2.5-flash: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
 
-Apple remains focused on deepening customer engagement by advancing its hardware-software synergy, heavily investing in proprietary artificial intelligence capabilities, expanding its digital offerings, and maintaining a high standard of supply chain sustainability and user privacy.
+Attempting to generate description using gemini-3.5-flash-lite...
+
+Company description: AAPL (Generated via gemini-3.5-flash-lite)
+
+Apple Inc., traded under the ticker AAPL, is a leading American multinational technology company headquartered in Cupertino, California. Founded in April 1976 by Steve Jobs, Steve Wozniak, and Ronald Wayne, the company originally focused on the development and sale of personal computers, notably introducing the Apple I and Apple II. Apple revolutionized the personal computer industry with the 1984 launch of the Macintosh and subsequently transformed global consumer electronics, software, and digital services. Its current product portfolio features the iPhone, iPad, Mac computers, Apple Watch, and Apple TV, alongside comprehensive digital services including the App Store, iCloud, Apple Music, and Apple Pay. Renowned for its vertically integrated ecosystem and design-driven innovation, Apple has grown to become one of the world's most valuable publicly traded corporations, consistently driving advancements in mobile computing, hardware engineering, and consumer technology.

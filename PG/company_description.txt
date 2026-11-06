@@ -1,7 +1,14 @@
-Company description: PG
+Attempting to generate description using gemini-3.8-flash...
+  -> Rate limit exceeded for gemini-3.8-flash. Falling back to next model...
 
-Procter & Gamble (NYSE: PG) is a world-leading fast-moving consumer goods corporation that develops, manufactures, and markets a broad array of personal care, household, and hygiene products. Founded in 1837 by William Procter and James Gamble in Cincinnati, Ohio, the business originally began as a small maker of candles and soap before growing into an international industry leader.
+Attempting to generate description using gemini-3.0-flash...
+  -> API Error with gemini-3.0-flash: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-3.0-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
 
-Today, the company serves billions of consumers across more than 180 countries. Its operations are structured around five primary business segments: Fabric & Home Care, Baby, Feminine & Family Care, Beauty, Grooming, and Health Care. Procter & Gamble owns a portfolio of globally recognized, market-leading brands, including Tide, Pampers, Gillette, Crest, Head & Shoulders, and Downy. 
+Attempting to generate description using gemini-2.5-flash...
+  -> API Error with gemini-2.5-flash: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
 
-By leveraging deep consumer insights, continuous product innovation, and an extensive global supply chain, the company focuses on delivering high-quality, daily-use essential items. Its resilient business model and long-standing brand equity make it a cornerstone of the global retail market.
+Attempting to generate description using gemini-3.5-flash-lite...
+
+Company description: PG (Generated via gemini-3.5-flash-lite)
+
+The Procter & Gamble Company, trading under the ticker PG, is a leading multinational consumer goods corporation headquartered in Cincinnati, Ohio. Founded in 1837 by candle maker William Procter and soap maker James Gamble, the company initially grew by supplying provisions and soap to the Union Army during the American Civil War. Over nearly two centuries, Procter & Gamble has evolved into a global powerhouse in the fast-moving consumer goods sector. Its comprehensive business model focuses on the development, marketing, and distribution of branded products across distinct segments, including beauty, grooming, health care, fabric and home care, and baby, feminine, and family care. The company manages a vast portfolio of globally recognized household names, such as Tide, Pampers, Gillette, Crest, and Pantene, which are sold in approximately 180 countries. Procter & Gamble distinguishes itself through sustained investments in research and development, supply chain optimization, and large-scale marketing strategies, enabling it to maintain market leadership and consistently deliver value to its global consumer base and shareholders.

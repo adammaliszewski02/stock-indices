@@ -1,0 +1,14 @@
+Attempting to generate description using gemini-3.8-flash...
+  -> API Error with gemini-3.8-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+
+Attempting to generate description using gemini-3.0-flash...
+  -> API Error with gemini-3.0-flash: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-3.0-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+
+Attempting to generate description using gemini-2.5-flash...
+  -> API Error with gemini-2.5-flash: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+
+Attempting to generate description using gemini-3.5-flash-lite...
+
+Company description: VZ (Generated via gemini-3.5-flash-lite)
+
+Verizon Communications Inc., trading under the ticker VZ, is a premier American multinational telecommunications conglomerate and a global leader in broadband, video, and wireless communications services. Headquartered in New York City, the company traces its corporate lineage back to the 1984 breakup of AT&T, originally forming as Bell Atlantic Corporation, one of the original Regional Bell Operating Companies. Following a series of strategic mergers, most notably the acquisition of GTE in 2000, the enterprise adopted the name Verizon—a portmanteau of "veritas" and "horizon"—to reflect certainty and a forward-looking vision. A pivotal milestone occurred in 2014 when Verizon acquired the remaining 45 percent stake in Verizon Wireless from Vodafone, securing full ownership of its primary growth engine. Today, Verizon operates one of the world's most expansive and reliable communication networks, delivering voice, data, and video services to millions of consumer, business, government, and wholesale customers across its advanced wireless and fiber-optic networks.

@@ -1,0 +1,16 @@
+Attempting to generate description using gemini-3.8-flash...
+  -> Rate limit exceeded for gemini-3.8-flash. Falling back to next model...
+
+Attempting to generate description using gemini-3.0-flash...
+  -> API Error with gemini-3.0-flash: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-3.0-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+
+Attempting to generate description using gemini-2.5-flash...
+  -> API Error with gemini-2.5-flash: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+
+Attempting to generate description using gemini-3.5-flash-lite...
+
+Company description: LIN (Generated via gemini-3.5-flash-lite)
+
+LIN is the stock ticker for Linde plc, the world's leading industrial gases and engineering company. Traded on the New York Stock Exchange and the Frankfurt Stock Exchange, the multinational corporation serves a diverse array of industries, including healthcare, chemicals, energy, electronics, and manufacturing. Linde produces, sells, and distributes atmospheric gases such as oxygen, nitrogen, and argon, as well as process gases like carbon dioxide, helium, and hydrogen, alongside high-performance surface coatings. 
+
+The company's origins trace back to 1879 when German scientist Carl von Linde engineered the refrigeration technology that laid the foundation for industrial gas liquefaction, successfully commercializing the process in 1902. Through strategic expansion and innovation over the decades, the modern enterprise was formed in 2018 via the landmark merger of equals between Germany-based Linde AG and the American corporation Praxair, which itself originated as Union Carbide's Linde Air Products division in 1907. Today, headquartered in Woking, United Kingdom, Linde leverages its proprietary engineering capabilities and global supply network to drive sustainable growth, with a growing focus on clean energy solutions such as green hydrogen infrastructure.

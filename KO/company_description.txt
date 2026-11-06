@@ -1,0 +1,19 @@
+Attempting to generate description using gemini-3.8-flash...
+  -> Rate limit exceeded for gemini-3.8-flash. Falling back to next model...
+
+Attempting to generate description using gemini-3.0-flash...
+  -> API Error with gemini-3.0-flash: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-3.0-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+
+Attempting to generate description using gemini-2.5-flash...
+  -> API Error with gemini-2.5-flash: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+
+Attempting to generate description using gemini-3.5-flash-lite...
+  -> API Error with gemini-3.5-flash-lite: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+
+Attempting to generate description using gemini-3.1-flash-lite...
+
+Company description: KO (Generated via gemini-3.1-flash-lite)
+
+The Coca-Cola Company (KO) is the world’s largest non-alcoholic beverage corporation, operating a vast portfolio that includes sparkling soft drinks, water, sports drinks, juices, and coffee. Founded in 1886 by pharmacist John Stith Pemberton in Atlanta, Georgia, the company originated with the invention of its flagship product, Coca-Cola, which was famously marketed as a patent medicine before becoming a global cultural icon. 
+
+Today, the company functions primarily as a brand owner and franchisor, managing a sophisticated global network of independent bottling partners that manufacture, package, and distribute its products. With a presence in over 200 countries and territories, Coca-Cola maintains a dominant market position through an extensive distribution infrastructure and a diverse brand lineup, which includes household names such as Sprite, Fanta, Dasani, and Minute Maid. Headquartered in Atlanta, the company remains a cornerstone of the consumer staples sector and a long-standing component of the Dow Jones Industrial Average, consistently focusing on brand equity, innovation, and global supply chain optimization to sustain its leadership in the beverage industry.

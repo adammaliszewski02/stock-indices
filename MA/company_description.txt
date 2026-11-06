@@ -1,0 +1,16 @@
+Attempting to generate description using gemini-3.8-flash...
+  -> Rate limit exceeded for gemini-3.8-flash. Falling back to next model...
+
+Attempting to generate description using gemini-3.0-flash...
+  -> API Error with gemini-3.0-flash: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-3.0-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+
+Attempting to generate description using gemini-2.5-flash...
+  -> API Error with gemini-2.5-flash: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+
+Attempting to generate description using gemini-3.5-flash-lite...
+
+Company description: MA (Generated via gemini-3.5-flash-lite)
+
+Mastercard Incorporated, trading under the ticker MA, is a multinational technology corporation specializing in the global payments industry. The company operates as the second-largest payment processing corporation worldwide, connecting consumers, financial institutions, merchants, governments, and businesses across more than 210 countries and territories. Its core business centers on facilitating the processing of payment transactions, including authorization, clearing, and settlement. 
+
+Mastercard traces its origins to 1966 when a group of California banks formed the Interbank Card Association to compete with Bank of America's BankAmericard. The association rebranded as Master Charge in 1969 before adopting its current name, Mastercard, in 1979. The company transitioned from a bank-owned cooperative to a publicly traded corporation through its initial public offering on the New York Stock Exchange in 2006. Beyond traditional credit and debit card processing, Mastercard has evolved its business model to encompass advanced digital security solutions, fraud prevention services, open banking, data analytics, and advisory services. Through strategic acquisitions and technological innovation, the company continues to drive the global transition toward digital, secure, and frictionless electronic commerce.

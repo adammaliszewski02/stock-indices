@@ -1,0 +1,16 @@
+Attempting to generate description using gemini-3.8-flash...
+  -> Rate limit exceeded for gemini-3.8-flash. Falling back to next model...
+
+Attempting to generate description using gemini-3.0-flash...
+  -> API Error with gemini-3.0-flash: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-3.0-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+
+Attempting to generate description using gemini-2.5-flash...
+  -> API Error with gemini-2.5-flash: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+
+Attempting to generate description using gemini-3.5-flash-lite...
+
+Company description: AMD (Generated via gemini-3.5-flash-lite)
+
+Advanced Micro Devices, Inc. (AMD) is a multinational semiconductor company that develops computer processors and related technologies for business and consumer markets. Founded in 1969 by Jerry Sanders and several colleagues, the company initially focused on logic semiconductors before entering the memory chip market in 1975 and launching its first proprietary processor, the Am9080, in 1976. 
+
+Today, AMD is a primary global designer of high-performance microprocessors, graphics processing units (GPUs), and adaptive computing solutions. The company operates through primary segments catering to data center, client, gaming, and embedded computing markets. A major milestone in its modern history was the 2006 acquisition of graphics giant ATI Technologies, which significantly enhanced its capabilities in GPU design. Furthermore, AMD expanded its footprint in enterprise and artificial intelligence infrastructure through its 2022 acquisition of Xilinx, a leader in adaptive computing. AMD fabless operational model relies on advanced third-party semiconductor manufacturing partnerships, most notably with TSMC, to produce advanced silicon for personal computers, servers, gaming consoles, and cloud infrastructure worldwide.

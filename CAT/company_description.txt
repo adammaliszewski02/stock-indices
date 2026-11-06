@@ -1,0 +1,16 @@
+Attempting to generate description using gemini-3.8-flash...
+  -> Rate limit exceeded for gemini-3.8-flash. Falling back to next model...
+
+Attempting to generate description using gemini-3.0-flash...
+  -> API Error with gemini-3.0-flash: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-3.0-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+
+Attempting to generate description using gemini-2.5-flash...
+  -> API Error with gemini-2.5-flash: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+
+Attempting to generate description using gemini-3.5-flash-lite...
+
+Company description: CAT (Generated via gemini-3.5-flash-lite)
+
+Caterpillar Inc., traded under the ticker CAT, is the world's leading manufacturer of construction and mining equipment, off-highway diesel and natural gas engines, industrial gas turbines, and diesel-electric locomotives. Operating primarily through its Construction Industries, Resource Industries, and Energy & Transportation segments, the company also provides financial services and robust aftermarket support through its global dealer network. 
+
+The company's origins date back to 1925 with the merger of the C.L. Best Tractor Co. and the Holt Manufacturing Company, which had previously pioneered the development of track-type tractors used during World War I. Headquartered in Irving, Texas, Caterpillar has evolved over a century into an indispensable pillar of global infrastructure development, resource extraction, and energy production, renowned for its iconic yellow machinery and unwavering commitment to technological innovation and sustainability.

@@ -1,0 +1,19 @@
+Attempting to generate description using gemini-3.8-flash...
+  -> Rate limit exceeded for gemini-3.8-flash. Falling back to next model...
+
+Attempting to generate description using gemini-3.0-flash...
+  -> API Error with gemini-3.0-flash: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-3.0-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+
+Attempting to generate description using gemini-2.5-flash...
+  -> API Error with gemini-2.5-flash: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+
+Attempting to generate description using gemini-3.5-flash-lite...
+  -> API Error with gemini-3.5-flash-lite: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+
+Attempting to generate description using gemini-3.1-flash-lite...
+
+Company description: NKE (Generated via gemini-3.1-flash-lite)
+
+Nike, Inc. (NKE) is a global leader in the design, development, marketing, and distribution of athletic footwear, apparel, equipment, and accessories. Headquartered in Beaverton, Oregon, the company operates as one of the world’s most recognizable brands, supported by its iconic "Swoosh" logo and the "Just Do It" slogan. Nike manages a diverse portfolio that includes the Nike brand, Jordan Brand, and Converse.
+
+The company was founded in 1964 as Blue Ribbon Sports by Bill Bowerman and Phil Knight, initially operating as a distributor for Japanese shoemaker Onitsuka Tiger. It officially rebranded as Nike, Inc. in 1971, drawing inspiration from the Greek goddess of victory. Since its inception, Nike has revolutionized the sports industry through continuous innovation in performance technology and strategic partnerships with elite athletes. Today, the company maintains a massive international presence, leveraging a sophisticated supply chain and a robust direct-to-consumer digital strategy to maintain its competitive edge in the global sportswear market.

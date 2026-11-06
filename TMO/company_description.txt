@@ -1,0 +1,19 @@
+Attempting to generate description using gemini-3.8-flash...
+  -> Rate limit exceeded for gemini-3.8-flash. Falling back to next model...
+
+Attempting to generate description using gemini-3.0-flash...
+  -> API Error with gemini-3.0-flash: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-3.0-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+
+Attempting to generate description using gemini-2.5-flash...
+  -> API Error with gemini-2.5-flash: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+
+Attempting to generate description using gemini-3.5-flash-lite...
+  -> API Error with gemini-3.5-flash-lite: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+
+Attempting to generate description using gemini-3.1-flash-lite...
+
+Company description: TMO (Generated via gemini-3.1-flash-lite)
+
+Thermo Fisher Scientific Inc. (TMO) is a global leader in serving science, providing an extensive portfolio of analytical instruments, laboratory equipment, software, services, and consumables. Headquartered in Waltham, Massachusetts, the company supports customers across the pharmaceutical, biotechnology, academic, government, and industrial sectors. Its business model focuses on accelerating life sciences research, solving complex analytical challenges, increasing laboratory productivity, and improving patient diagnostics.
+
+The company was formed in 2006 through the merger of Thermo Electron and Fisher Scientific, two entities with deep roots in scientific instrumentation and laboratory supply dating back to the early 20th century. Over the decades, Thermo Fisher has expanded its capabilities significantly through strategic acquisitions, including the high-profile integrations of Life Technologies in 2014, FEI Company in 2016, and PPD in 2021. Today, the company operates under several prominent brands, including Thermo Scientific, Applied Biosystems, Invitrogen, Fisher Scientific, Unity Lab Services, Patheon, and PPD. By integrating these diverse capabilities, Thermo Fisher provides an end-to-end ecosystem that facilitates innovation from basic research and drug discovery through to large-scale manufacturing and clinical development.

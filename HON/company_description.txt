@@ -1,0 +1,19 @@
+Attempting to generate description using gemini-3.8-flash...
+  -> Rate limit exceeded for gemini-3.8-flash. Falling back to next model...
+
+Attempting to generate description using gemini-3.0-flash...
+  -> API Error with gemini-3.0-flash: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-3.0-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+
+Attempting to generate description using gemini-2.5-flash...
+  -> API Error with gemini-2.5-flash: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+
+Attempting to generate description using gemini-3.5-flash-lite...
+  -> API Error with gemini-3.5-flash-lite: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+
+Attempting to generate description using gemini-3.1-flash-lite...
+
+Company description: HON (Generated via gemini-3.1-flash-lite)
+
+Honeywell International Inc. (HON) is a diversified technology and manufacturing leader that operates through four primary business segments: Aerospace, Building Automation, Industrial Automation, and Energy and Sustainability Solutions. Headquartered in Charlotte, North Carolina, the company provides advanced software, hardware, and services designed to improve productivity, safety, and energy efficiency for customers in sectors ranging from aviation and logistics to manufacturing and commercial real estate.
+
+The company’s roots trace back to 1885, when Albert Butz patented the furnace regulator and alarm, eventually leading to the formation of the Honeywell Heating Specialty Company. Following a landmark 1999 merger between AlliedSignal and Honeywell Inc., the organization adopted the Honeywell name and solidified its position as a global industrial conglomerate. Today, Honeywell focuses on integrating physical products with digital intelligence to address complex global challenges, including the transition to sustainable energy and the digitalization of industrial operations. Through its commitment to innovation and operational excellence, Honeywell remains a cornerstone of the global industrial landscape, consistently evolving its portfolio to meet the demands of a rapidly changing technological environment.

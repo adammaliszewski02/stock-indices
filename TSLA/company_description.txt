@@ -1,0 +1,17 @@
+Attempting to generate description using gemini-3.8-flash...
+  -> API Error with gemini-3.8-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+
+Attempting to generate description using gemini-3.0-flash...
+  -> API Error with gemini-3.0-flash: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-3.0-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+
+Attempting to generate description using gemini-2.5-flash...
+  -> API Error with gemini-2.5-flash: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+
+Attempting to generate description using gemini-3.5-flash-lite...
+  -> API Error with gemini-3.5-flash-lite: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+
+Attempting to generate description using gemini-3.1-flash-lite...
+
+Company description: TSLA (Generated via gemini-3.1-flash-lite)
+
+Tesla, Inc. is a vertically integrated sustainable energy and transportation company headquartered in Austin, Texas. Founded in 2003 by Martin Eberhard and Marc Tarpenning, with Elon Musk joining as an early investor and later CEO, the company initially focused on proving the viability of electric vehicles with the launch of the Roadster in 2008. Today, Tesla designs, manufactures, and sells high-performance electric vehicles, including the Model S, 3, X, and Y, alongside the Cybertruck. Beyond automotive manufacturing, the company maintains a significant presence in the energy sector, producing solar energy generation systems and large-scale battery storage solutions like the Powerwall and Megapack. Tesla also invests heavily in artificial intelligence, robotics, and autonomous driving software, aiming to accelerate the world's transition to sustainable energy through a comprehensive ecosystem of hardware and software solutions.
