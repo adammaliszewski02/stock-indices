@@ -34,10 +34,20 @@ jobs:
       - name: Execute report batch
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: >-
-          jupyter nbconvert --to notebook --execute all_tickers.ipynb
-          --output all_tickers_executed.ipynb
-          --ExecutePreprocessor.timeout=1800
+        run: |
+          for attempt in 1 2 3; do
+            echo "Report batch attempt ${attempt}/3"
+            if jupyter nbconvert --to notebook --execute all_tickers.ipynb \
+              --output all_tickers_executed.ipynb \
+              --ExecutePreprocessor.timeout=1800; then
+              exit 0
+            fi
+            if [ "$attempt" -lt 3 ]; then
+              echo "Report batch failed; retrying."
+            fi
+          done
+          echo "Report batch failed after 3 attempts." >&2
+          exit 1
 
       - name: Commit generated reports
         run: |
