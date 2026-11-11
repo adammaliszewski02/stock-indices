@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#111415">
+    <meta name="description" content="Search company stock reports and market charts in the Stock Indices collection.">
+    <title>Stock Indices — Company directory</title>
+    <link rel="stylesheet" href="/styles.css">
+    <script src="/app.js" defer></script>
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="site-header">
+        <a class="brand" href="/" aria-label="Stock Indices home">
+          <span class="brand-mark" aria-hidden="true">S<span>.</span></span>
+          <span class="brand-name">stock<span>indices</span></span>
+        </a>
+        <div class="header-meta">
+          <span class="status-dot" aria-hidden="true"></span>
+          <span>Company research, in one place</span>
+        </div>
+      </header>
+
+      <main>
+        <section class="hero" aria-labelledby="hero-title">
+          <div class="hero-copy">
+            <p class="eyebrow"><span class="eyebrow-line"></span> A clearer view of the market</p>
+            <h1 id="hero-title">Every company.<br><span>One search away.</span></h1>
+            <p class="hero-description">Explore the companies in your stock collection. Search by company name or ticker to open its full report and charts.</p>
+
+            <div class="search-wrap">
+              <form class="search-form" role="search" autocomplete="off">
+                <svg class="search-icon" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+                  <circle cx="10.8" cy="10.8" r="6.8"></circle>
+                  <path d="m16 16 4.2 4.2"></path>
+                </svg>
+                <label class="sr-only" for="company-search">Search companies by name or ticker</label>
+                <input id="company-search" type="search" placeholder="Search a company or ticker…" aria-controls="suggestions" aria-autocomplete="list" aria-expanded="false">
+                <kbd class="search-hint">↵</kbd>
+              </form>
+              <ul id="suggestions" class="suggestions" role="listbox" aria-label="Matching companies" hidden></ul>
+              <p class="search-help">Try <button class="example-search" type="button" data-query="Apple">Apple</button>, <button class="example-search" type="button" data-query="MSFT">MSFT</button> or <button class="example-search" type="button" data-query="Warsaw">a Warsaw-listed company</button></p>
+            </div>
+          </div>
+
+          <aside class="hero-art" aria-label="Company reports collection">
+            <div class="art-topline"><span>THE COLLECTION</span><span class="art-live"><i></i> LOCAL</span></div>
+            <div class="art-number" id="collection-count">—<span> reports</span></div>
+            <svg class="market-line" viewBox="0 0 420 150" fill="none" role="img" aria-label="Decorative rising market line">
+              <defs>
+                <linearGradient id="line-fill" x1="210" y1="13" x2="210" y2="150" gradientUnits="userSpaceOnUse">
+                  <stop stop-color="#D6F36A" stop-opacity=".24"></stop>
+                  <stop offset="1" stop-color="#D6F36A" stop-opacity="0"></stop>
+                </linearGradient>
+              </defs>
+              <path d="M0 117 37 108 68 116 102 76 139 88 174 59 210 72 247 39 278 53 315 26 345 38 378 16 420 24V150H0V117Z" fill="url(#line-fill)"></path>
+              <path d="m0 117 37-9 31 8 34-40 37 12 35-29 36 13 37-33 31 14 37-27 30 12 33-22 41 8" stroke="#D6F36A" stroke-width="2"></path>
+              <circle cx="378" cy="16" r="4" fill="#D6F36A"></circle>
+              <path d="M0 149.5h420" stroke="#ffffff" stroke-opacity=".14"></path>
+            </svg>
+            <div class="art-caption"><span>US &amp; WARSAW LISTINGS</span><span>REPORTS + CHARTS</span></div>
+            <div class="art-stamp" aria-hidden="true">SI</div>
+          </aside>
+        </section>
+
+        <section class="directory" aria-labelledby="directory-title">
+          <div class="section-heading">
+            <div>
+              <p class="eyebrow section-eyebrow">Browse the collection</p>
+              <h2 id="directory-title">Company directory</h2>
+            </div>
+            <p class="result-count" id="result-count" aria-live="polite">Loading reports…</p>
+          </div>
+
+          <div class="directory-controls">
+            <div class="filter-group" role="group" aria-label="Filter companies by market">
+              <button class="filter-button is-active" type="button" data-market="All" aria-pressed="true">All companies</button>
+              <button class="filter-button" type="button" data-market="US" aria-pressed="false">US</button>
+              <button class="filter-button" type="button" data-market="Warsaw" aria-pressed="false">Warsaw</button>
+            </div>
+            <span class="directory-note"><span class="status-dot" aria-hidden="true"></span> Reports available locally</span>
+          </div>
+
+          <div id="company-grid" class="company-grid" role="list" aria-label="Company reports" aria-live="polite" aria-busy="true"></div>
+          <div class="directory-footer">
+            <p id="directory-message" class="directory-message"></p>
+            <button id="show-more" class="show-more" type="button" hidden>Show all companies <span aria-hidden="true">↓</span></button>
+          </div>
+        </section>
+      </main>
+
+      <footer class="site-footer">
+        <a class="brand footer-brand" href="/" aria-label="Stock Indices home">
+          <span class="brand-mark" aria-hidden="true">S<span>.</span></span>
+          <span class="brand-name">stock<span>indices</span></span>
+        </a>
+        <p>Company reports and charts from your local collection.</p>
+        <span class="footer-local"><span class="status-dot" aria-hidden="true"></span> PRIVATE · LOCAL</span>
+      </footer>
+    </div>
+  </body>
+</html>
